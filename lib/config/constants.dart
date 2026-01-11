@@ -5,7 +5,7 @@ class AppConstants {
     if (kIsWeb) {
       return 'http://localhost/mykomplek-web_api';
     } else {
-      return 'http://10.194.91.214/mykomplek-web_api';
+      return 'http://ip_laptop/mykomplek-web_api';
     }
   }
 
